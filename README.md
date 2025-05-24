@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tranquockhanhhh
+- 👋 Hi, I’m @quockhanh-tran
 - 👀 I’m a sysadmin interested in writing code
-- 🌱 I’m currently learning algorithms, C++, Python
+- 🌱 I’m currently learning algorithms, Python
 
 <!---
 tranquockhanhhh/tranquockhanhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
