@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quockhanh-tran
+- 👋 Hi, I’m @khanhs-traanf
 - 👀 I’m a sysadmin interested in writing code
 - 🌱 I’m currently learning algorithms, Python
 
